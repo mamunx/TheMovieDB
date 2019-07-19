@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PathaoMovie</string>
+    <string name="search">Search</string>
+    <string name="upcoming">Upcoming Movies</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rated">Top Rated</string>
+</resources>
